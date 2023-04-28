@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="source\main\app.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libs\scene.cpp">
+      <Filter>libs</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libs\scenechanger.cpp">
+      <Filter>libs\Scene Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libs\scenemanager.cpp">
+      <Filter>libs\Scene Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libs\bootScene.cpp">
+      <Filter>libs\TestScenes</Filter>
+    </ClCompile>
+    <ClCompile Include="source\main\winmain.cpp">
+      <Filter>mains</Filter>
+    </ClCompile>
+    <ClCompile Include="source\libs\bootTestObject.cpp">
+      <Filter>libs\TestObject</Filter>
+    </ClCompile>
+    <ClCompile Include="source\titlescene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gamescene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="source\titleobject.cpp">
+      <Filter>Objects\TitleScene_Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="source\save.cpp">
+      <Filter>csvLoadorSave</Filter>
+    </ClCompile>
+    <ClCompile Include="source\backImage.cpp">
+      <Filter>Objects\GameScene_objects\backImage</Filter>
+    </ClCompile>
+    <ClCompile Include="source\common\keystate.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="source\common\switchbutton.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="source\player.cpp">
+      <Filter>Objects\GameScene_objects\player</Filter>
+    </ClCompile>
+    <ClCompile Include="source\talkObject.cpp">
+      <Filter>Objects\GameScene_objects\talkObjects\talkObject</Filter>
+    </ClCompile>
+    <ClCompile Include="source\talkCat.cpp">
+      <Filter>Objects\GameScene_objects\talkObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="source\talkTree.cpp">
+      <Filter>Objects\GameScene_objects\talkObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="source\talkObjectManager.cpp">
+      <Filter>Objects\GameScene_objects\talkObjects\talkObject</Filter>
+    </ClCompile>
+    <ClCompile Include="source\common\oneCharacterSpacing.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="source\debug\debug_Prank.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="source\gameMasterAI.cpp">
+      <Filter>Objects\GameScene_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="source\messegeWindow.cpp">
+      <Filter>Objects\GameScene_objects\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="source\clickHint.cpp">
+      <Filter>Objects\GameScene_objects\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="source\speechBubble.cpp">
+      <Filter>Objects\GameScene_objects\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="source\talkPlayer.cpp">
+      <Filter>Objects\GameScene_objects\talkObjects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\main\app.h">
+      <Filter>mains</Filter>
+    </ClInclude>
+    <ClInclude Include="source\main\config.h">
+      <Filter>mains</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libs\object.h">
+      <Filter>libs</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libs\scene.h">
+      <Filter>libs</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libs\scenechanger.h">
+      <Filter>libs\Scene Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libs\scenemanager.h">
+      <Filter>libs\Scene Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libs\bootScene.h">
+      <Filter>libs\TestScenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libs\bootTestObject.h">
+      <Filter>libs\TestObject</Filter>
+    </ClInclude>
+    <ClInclude Include="source\titlescene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\gamescene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="source\titleobject.h">
+      <Filter>Objects\TitleScene_Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\save.h">
+      <Filter>csvLoadorSave</Filter>
+    </ClInclude>
+    <ClInclude Include="source\libs\myDxLib.h">
+      <Filter>libs</Filter>
+    </ClInclude>
+    <ClInclude Include="source\backImage.h">
+      <Filter>Objects\GameScene_objects\backImage</Filter>
+    </ClInclude>
+    <ClInclude Include="source\common\keystate.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="source\common\switchbutton.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="source\player.h">
+      <Filter>Objects\GameScene_objects\player</Filter>
+    </ClInclude>
+    <ClInclude Include="source\talkObject.h">
+      <Filter>Objects\GameScene_objects\talkObjects\talkObject</Filter>
+    </ClInclude>
+    <ClInclude Include="source\talkCat.h">
+      <Filter>Objects\GameScene_objects\talkObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\talkTree.h">
+      <Filter>Objects\GameScene_objects\talkObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\talkObjectManager.h">
+      <Filter>Objects\GameScene_objects\talkObjects\talkObject</Filter>
+    </ClInclude>
+    <ClInclude Include="source\common\oneCharacterSpacing.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="source\deltaTime.h">
+      <Filter>libs</Filter>
+    </ClInclude>
+    <ClInclude Include="source\debug\debug_Prank.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\gameMasterAI.h">
+      <Filter>Objects\GameScene_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="source\messegeWindow.h">
+      <Filter>Objects\GameScene_objects\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="source\clickHint.h">
+      <Filter>Objects\GameScene_objects\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="source\speechBubble.h">
+      <Filter>Objects\GameScene_objects\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="source\talkPlayer.h">
+      <Filter>Objects\GameScene_objects\talkObjects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="mains">
+      <UniqueIdentifier>{61e657b5-09cb-41dd-9b2f-2b22b4e1c4be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs">
+      <UniqueIdentifier>{32d1f8e8-4ec3-4f70-b237-64c8e07ed6ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\Scene Manager">
+      <UniqueIdentifier>{979f20c5-d0ad-44b1-925c-70552eaa354b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\TestScenes">
+      <UniqueIdentifier>{2706f31c-eba3-458f-844b-309bd1c7d970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\TestObject">
+      <UniqueIdentifier>{7f56394e-989a-40bd-98e8-db76b50e689a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{a086f3e0-521a-46db-bd1c-6813f91fe081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{768e2e3c-9694-4f87-9dde-f772f96706ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\TitleScene_Objects">
+      <UniqueIdentifier>{aabfa36f-c3ac-4e99-8161-ba197e0d98e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\GameScene_objects">
+      <UniqueIdentifier>{6b533f3a-ba78-44ca-81ca-88e8b31e8c82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="csvLoadorSave">
+      <UniqueIdentifier>{2f57c28f-e52c-477f-aed2-1caa80b62847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\GameScene_objects\backImage">
+      <UniqueIdentifier>{969fc838-7ade-4a31-ae01-b038526e34b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{c8fefd4b-3b1d-4d2d-b2b8-e355dce33b7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\GameScene_objects\player">
+      <UniqueIdentifier>{17adf686-00d7-4cd5-9ed2-ff711ef14dea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\GameScene_objects\talkObjects">
+      <UniqueIdentifier>{0c563a2a-71e2-4904-902a-1135ea9dcba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\GameScene_objects\talkObjects\talkObject">
+      <UniqueIdentifier>{7e47db27-fac1-485f-b9df-7f4d85ad807b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\GameScene_objects\ui">
+      <UniqueIdentifier>{37dfecb1-e2ae-4f39-adef-7070bddbeb31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
