@@ -16,7 +16,6 @@
     <ClCompile Include="source\common\keystate.cpp" />
     <ClCompile Include="source\common\oneCharacterSpacing.cpp" />
     <ClCompile Include="source\common\switchbutton.cpp" />
-    <ClCompile Include="source\debug\debug_Prank.cpp" />
     <ClCompile Include="source\gameMasterAI.cpp" />
     <ClCompile Include="source\gamescene.cpp" />
     <ClCompile Include="source\libs\scene.cpp" />
@@ -42,7 +41,6 @@
     <ClInclude Include="source\common\keystate.h" />
     <ClInclude Include="source\common\oneCharacterSpacing.h" />
     <ClInclude Include="source\common\switchbutton.h" />
-    <ClInclude Include="source\debug\debug_Prank.h" />
     <ClInclude Include="source\libs\object.h" />
     <ClInclude Include="source\libs\scene.h" />
     <ClInclude Include="source\libs\scenechanger.h" />

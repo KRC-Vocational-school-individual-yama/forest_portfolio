@@ -61,9 +61,6 @@
     <ClCompile Include="source\common\oneCharacterSpacing.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="source\debug\debug_Prank.cpp">
-      <Filter>Objects</Filter>
-    </ClCompile>
     <ClCompile Include="source\gameMasterAI.cpp">
       <Filter>Objects\GameScene_objects</Filter>
     </ClCompile>
@@ -149,9 +146,6 @@
     </ClInclude>
     <ClInclude Include="source\deltaTime.h">
       <Filter>libs</Filter>
-    </ClInclude>
-    <ClInclude Include="source\debug\debug_Prank.h">
-      <Filter>Objects</Filter>
     </ClInclude>
     <ClInclude Include="source\gameMasterAI.h">
       <Filter>Objects\GameScene_objects</Filter>
